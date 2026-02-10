@@ -1,1 +1,1 @@
-thingsboard/trendz-python-executor:latest
+rancher/hello-world:latest
